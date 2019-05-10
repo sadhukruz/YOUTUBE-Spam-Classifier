@@ -11,6 +11,7 @@ Data Set Information:
 The table below lists the datasets, the YouTube video ID, the amount of samples in each class and the total number of samples per dataset. 
 
 Dataset --- YouTube ID -- # Spam - # Ham - Total 
+
 Psy ------- 9bZkp7q19f0 --- 175 --- 175 --- 350 
 
 KatyPerry - CevxZvSJLk8 --- 175 --- 175 --- 350 
@@ -34,10 +35,16 @@ COMMENT_ID,AUTHOR,DATE,CONTENT,TAG
 Description of the files 
 
 The names of the dataset in the CSV format are 
+
 Youtube01-Psy
+
 Youtube02-KatyPerry
+
 Youtube03-LMFAO
+
 Youtube04-Eminem
+
 Youtube05-Shakira
+
 
 The Name of the python notebook is youtube_spam_classfier.ipynb
