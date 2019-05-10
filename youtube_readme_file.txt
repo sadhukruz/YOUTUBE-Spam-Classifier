@@ -1,7 +1,10 @@
+This is the project on spam classification on the top trending videos in youtube. The Data scourse is from the UCI repo.(link below). 
+
+The dataset consists of five CSV files and one python notebook.The soultion of the problem can found in the python notebook. 
+
 Source: https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#
 
 This corpus has been collected using the YouTube Data API v3.
-
 
 Data Set Information:
 
@@ -23,6 +26,14 @@ The collection is composed by one CSV file per dataset, where each line has the 
 
 COMMENT_ID,AUTHOR,DATE,CONTENT,TAG 
 
-We offer one example bellow: 
 
-z12oglnpoq3gjh4om04cfdlbgp2uepyytpw0k,Francisco Nora,2013-11-28T19:52:35,please like :D [Web Link],1 
+Description of the files 
+
+The names of the dataset in the CSV format are 
+Youtube01-Psy
+Youtube02-KatyPerry
+Youtube03-LMFAO
+Youtube04-Eminem
+Youtube05-Shakira
+
+The Name of the python notebook is youtube_spam_classfier.ipynb
