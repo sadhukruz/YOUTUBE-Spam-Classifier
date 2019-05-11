@@ -51,3 +51,10 @@ The Name of the python notebook is youtube_spam_classfier.ipynb
 
 
 After running the model the model acheived the F1 score of 95 % . I used logistic regression in this case.
+
+Improvements:
+
+If youtube implement this kind of spam classification for their comments, the users could enjoy a better user experience on the user side and on the company end there will not be a necessary for additional hardware for their storage and by classifying the spam comments they cal also stop abusive content in their systems.
+
+
+
