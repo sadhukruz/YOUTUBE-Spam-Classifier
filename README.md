@@ -50,4 +50,4 @@ Youtube05-Shakira
 The Name of the python notebook is youtube_spam_classfier.ipynb
 
 
-After running the model the model acheived the F1 score of 95 % . I used logistic regression as in this method.
+After running the model the model acheived the F1 score of 95 % . I used logistic regression in this case.
