@@ -1,3 +1,14 @@
+Necessary Installation
+
+The problem is coded in python 3.7 version. You can download python from the link https://www.python.org/downloads/. 
+
+I also used jupyter notebook from anaconda suite which  also contains python internally. You can download anaconda form here https://www.anaconda.com/distribution/
+
+Motivation:
+
+This project is my capestone project  from TERM two of the udacity datascience nanodegree program. I would like to thank udacity for providing me an opportunity to work on this problem and helped me put my gained skills in implementation.
+
+
 This is the project on spam classification on the top trending videos in youtube. The Data scourse is from the UCI repo.(link below). 
 
 The dataset consists of five CSV files and one python notebook.The soultion of the problem can found in the python notebook. 
